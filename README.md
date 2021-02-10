@@ -3,4 +3,4 @@ Helper for crosswords to find words with missing characters
 
 Replace unknown characters with a period (.).
 
-e.g.g run **python ./cw.py s.u.p** and it'll return slump, slurp, stump.
+e.g. run **python ./cw.py s.u.p** and it'll return slump, slurp, stump.
