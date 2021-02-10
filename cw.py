@@ -2,7 +2,7 @@
 
 """
 Leif Gregory <leif@devtek.org>
-cw.py v0.1
+cw.py v0.5
 Tested to Python v3.8.5
 
 Description:
